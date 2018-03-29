@@ -10,7 +10,7 @@ config_version=3
 
 [application]
 
-config/name="New Game Project"
+config/name="Godot APNG"
 run/main_scene="res://test_scene/Test Scene.tscn"
 config/icon="res://icon.png"
 

@@ -171,7 +171,7 @@ static func update_crc(crc, buffer, size):
 	if len(crc_table) == 0:
 		build_crc_table()
 		
-	#Go through each bit
+	#Go through each byte
 	var c = crc
 	for n in range(size):
 		#Calculate the index
