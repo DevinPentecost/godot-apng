@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true" buildAllGenerated="false">
+    <generated />
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="true">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="441cd398-f5b7-4fa3-8bfc-0b8361699dc5" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/godot_apng/src/.gdignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gitmodules" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitmodules" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/godot_headers/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/godot_headers/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/godot_headers/arvr/godot_arvr.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/godot_headers/gdnative/aabb.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/godot_headers/gdnative/array.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/godot_headers/gdnative/basis.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/godot_headers/gdnative/color.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/godot_headers/gdnative/dictionary.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/godot_headers/gdnative/gdnative.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/godot_headers/gdnative/node_path.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/godot_headers/gdnative/plane.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/godot_headers/gdnative/pool_arrays.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/godot_headers/gdnative/quat.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/godot_headers/gdnative/rect2.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/godot_headers/gdnative/rid.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/godot_headers/gdnative/string.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/godot_headers/gdnative/string_name.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/godot_headers/gdnative/transform.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/godot_headers/gdnative/transform2d.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/godot_headers/gdnative/variant.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/godot_headers/gdnative/vector2.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/godot_headers/gdnative/vector3.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/godot_headers/gdnative_api.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/godot_headers/gdnative_api_struct.gen.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/godot_headers/images/faq/create_dlscript.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/godot_headers/images/faq/dllibrary_create_new_dllibrary.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/godot_headers/images/faq/dllibrary_create_new_resource.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/godot_headers/images/faq/dllibrary_save_as_resource.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/godot_headers/images/faq/set_project_dllibrary.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/godot_headers/images/faq/set_script_dllibrary.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/godot_headers/nativescript/godot_nativescript.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/godot_headers/pluginscript/godot_pluginscript.h" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="simple.c" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/godot_apng/src/simple.c">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="49" lean-forward="true" selection-start-line="10" selection-start-column="49" selection-end-line="10" selection-end-column="49" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CMakeLists.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="32" selection-start-column="32" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CMakeLists.txt" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>core_</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/godot_headers/gdnative_api_struct.gen.h" />
+        <option value="$PROJECT_DIR$/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/godot_apng/src/simple.c" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="15" />
+    <option name="y" value="30" />
+    <option name="width" value="1890" />
+    <option name="height" value="930" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="gdnative" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gdnative" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gdnative" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gdnative" type="462c0819:PsiDirectoryNode" />
+              <item name="godot_apng" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gdnative" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gdnative" type="462c0819:PsiDirectoryNode" />
+              <item name="godot_apng" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gdnative" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gdnative" type="462c0819:PsiDirectoryNode" />
+              <item name="godot_headers" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="project.propDebugger" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Build" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" EXPLICIT_BUILD_TARGET_NAME="all" />
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" EXPLICIT_BUILD_TARGET_NAME="all" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="441cd398-f5b7-4fa3-8bfc-0b8361699dc5" name="Default" comment="" />
+      <created>1522308542580</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1522308542580</updated>
+      <workItem from="1522308545273" duration="6552000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="6552000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49866667" visible="true" weight="0.21065183" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="CMake" sideWeight="0.5261514" weight="0.3291592" />
+      <window_info anchor="bottom" id="Event Log" sideWeight="0.47384855" side_tool="true" weight="0.3298969" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info id="Structure" order="1" sideWeight="0.50133336" side_tool="true" weight="0.21065183" />
+      <window_info anchor="bottom" id="Terminal" sideWeight="0.49960968" visible="true" weight="0.3291592" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/godot_apng/src/simple.h">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/godot_apng/src/.gdignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/godot_headers/gdnative_api_struct.gen.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="32" selection-start-column="32" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/godot_apng/src/simple.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="49" lean-forward="true" selection-start-line="10" selection-start-column="49" selection-end-line="10" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
